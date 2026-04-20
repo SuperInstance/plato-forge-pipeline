@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_forge_pipeline/__init__.py
+src/plato_forge_pipeline/pipeline.py
+src/plato_forge_pipeline.egg-info/PKG-INFO
+src/plato_forge_pipeline.egg-info/SOURCES.txt
+src/plato_forge_pipeline.egg-info/dependency_links.txt
+src/plato_forge_pipeline.egg-info/top_level.txt
